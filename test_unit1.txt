@@ -1,0 +1,46 @@
+
+
+1. Amazon was founded by \_\_\_\_\_\_\_\_\_\_ in 1994.
+2. Alibaba was founded by \_\_\_\_\_\_\_\_\_\_ in 1999.
+3. Amazon started as an \_\_\_\_\_\_\_\_\_\_ bookstore.
+4. Alibaba is headquartered in \_\_\_\_\_\_\_\_\_\_.
+5. Amazon launched its cloud computing platform called \_\_\_\_\_\_\_\_\_\_.
+6. Alibaba's cloud platform is known as \_\_\_\_\_\_\_\_\_\_ Cloud.
+7. Unlike Amazon, Alibaba does not maintain its own \_\_\_\_\_\_\_\_\_\_.
+8. Amazon has its own delivery system called \_\_\_\_\_\_\_\_\_\_ Logistics.
+9. Alibaba mostly relies on \_\_\_\_\_\_\_\_\_\_ delivery partners.
+10. One of the key principles of Amazon is customer \_\_\_\_\_\_\_\_\_\_.
+11. Alibaba connects \_\_\_\_\_\_\_\_\_\_ sellers to buyers globally.
+12. Amazon uses AI in its voice assistant called \_\_\_\_\_\_\_\_\_\_.
+13. Alibaba's AI tools are designed to support \_\_\_\_\_\_\_\_\_\_-sized businesses.
+14. Amazon’s recommendation engine is powered by \_\_\_\_\_\_\_\_\_\_ learning algorithms.
+15. Alibaba uses AI to detect \_\_\_\_\_\_\_\_\_\_ products in its marketplace.
+16. Amazon operates both a marketplace and \_\_\_\_\_\_\_\_\_\_ retail.
+17. Alibaba mainly operates as a \_\_\_\_\_\_\_\_\_\_ only platform.
+18. In Amazon, product delivery is handled primarily by \_\_\_\_\_\_\_\_\_\_.
+19. Alibaba's payment gateway is called \_\_\_\_\_\_\_\_\_\_.
+20. Amazon’s founder, Jeff Bezos, stepped down as CEO in the year \_\_\_\_\_\_\_\_\_\_.
+21. Alibaba’s Singles Day event is held every year on \_\_\_\_\_\_\_\_\_\_.
+22. Amazon’s global presence includes the US, India, and \_\_\_\_\_\_\_\_\_\_.
+23. Alibaba has its strongest market presence in \_\_\_\_\_\_\_\_\_\_.
+24. Amazon uses AWS to support other \_\_\_\_\_\_\_\_\_\_ with cloud services.
+25. AI in Amazon helps reduce customer service load by using \_\_\_\_\_\_\_\_\_\_.
+26. One major challenge for both companies is managing \_\_\_\_\_\_\_\_\_\_ transactions.
+27. Alibaba supports rural businesses by offering \_\_\_\_\_\_\_\_\_\_ solutions.
+28. Amazon uses computer vision to monitor warehouse \_\_\_\_\_\_\_\_\_\_.
+29. Alibaba uses machine learning for \_\_\_\_\_\_\_\_\_\_ detection in product listings.
+30. Amazon launched its cashier-less store concept called Amazon \_\_\_\_\_\_\_\_\_\_.
+31. Ethical use of AI includes preventing \_\_\_\_\_\_\_\_\_\_ in algorithmic results.
+32. A major concern in data ethics is user \_\_\_\_\_\_\_\_\_\_.
+33. Amazon encrypts user data to maintain \_\_\_\_\_\_\_\_\_\_.
+34. AI should be \_\_\_\_\_\_\_\_\_\_ and explainable in platforms like Amazon.
+35. Alibaba’s Taobao is a \_\_\_\_\_\_\_\_\_\_-to-consumer platform.
+36. Amazon Prime offers fast delivery and \_\_\_\_\_\_\_\_\_\_ streaming.
+37. Both companies use AI to personalize product \_\_\_\_\_\_\_\_\_\_.
+38. Counterfeit tracking is easier for Amazon due to control over \_\_\_\_\_\_\_\_\_\_.
+39. Alibaba has a larger marketplace of \_\_\_\_\_\_\_\_\_\_ sellers.
+40. The future of AI in e-commerce must balance power with \_\_\_\_\_\_\_\_\_\_ use.
+
+---
+
+
